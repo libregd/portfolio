@@ -14,8 +14,8 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
+    name: "libregd",
+    profession: "UI/UX designer | Graphic Designer",
     profileImage: "pp2.png",
     profileFacts: [
         {
@@ -32,7 +32,7 @@ export const ME = {
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
+        email: "libregd@outlook.com",
         linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
         resumeDoc: "resume.pdf",
     },
@@ -42,7 +42,7 @@ export const ME = {
 export const SOCIALS = [
     {
         name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
+        url: "https://twitter.com/libregd60294",
         icon: "twitter-x-fill",
         show: true
     },
@@ -54,15 +54,15 @@ export const SOCIALS = [
     },
     {
         name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
+        url: "https://www.instagram.com/libregd",
         icon: "instagram-fill",
         show: true
     },
     {
         name: "Youtube",
-        url: "https://www.youtube.com/vicbox.dev",
+        url: "https://www.youtube.com/libregd",
         icon: "youtube-fill",
-        show: true
+        show: false
     },
     {
         name: "TikTok",
@@ -72,7 +72,7 @@ export const SOCIALS = [
     },
     {
         name: "GitHub",
-        url: "https://github.com/vicbox.dev",
+        url: "https://github.com/libregd",
         icon: "github-fill",
         show: true
     }

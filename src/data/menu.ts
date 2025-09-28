@@ -8,7 +8,7 @@ export const menu = [
         label: 'Projects',
     },
     {
-        href: '/blog',
+        href: 'https://pick-up-the-light.pages.dev/',
         label: 'Blog',
     },
 ]

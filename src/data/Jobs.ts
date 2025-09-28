@@ -44,29 +44,27 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Frontend Developer",
-        startDate: "2020-03-10",
-        company: "Google Inc",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
+        title: "Freelance Designer / Developer",
+        startDate: "2024-04-10",
+        company: "Self-Employed",
+        location: "Global",
+        description: "Providing freelance design services including UI/UX design, graphic design, and web development.",
         goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
+            "GitHub: Active contributor in visual design discussions (logo proposals, design issues)."
         ],
         currentJob: true,
     },
     {
-        title: "Software Engineer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
-        company: "Company Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
+        title: "UI/UX Designer",
+        startDate: "2017-09-10",
+        endDate: "2024-04-10",
+        company: "Enmotech",
+        location: "China, Beijing",
+        description: "Designed UI/UX across PC, web, and mini-program platforms; partial involvement in product requirement definition.",
         goals: [
-            "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-            "Worked with the team to develop and maintain web applications using React, NodeJs, and MongoDB.",
-            "Created and maintained web applications using React, NodeJs, and MongoDB.",
+            "Delivered visual assets for cross-department needs: exhibitions, posters, books, and corporate identity materials.",
+            "Collaborated with product managers and developers to create user-centered designs.",
+            "Conducted user research and testing to inform design decisions."
         ],
         currentJob: false,
     },

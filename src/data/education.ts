@@ -10,32 +10,23 @@ interface Education {
 
 const  education: Education[] = [
     {
-        title: "General English",
+        title: "Aalto University's online learning",
         startDate: "2024-09-01",
         endDate: "",
-        school: "University Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
+        school: "Aalto University",
+        location: "Global",
+        description:"I'm currently exploring Aalto University's open learning resources, especially in art and design. Their free online courses, podcasts, and lectures offer fresh perspectives on creativity, sustainability, and visual thinking—perfect for expanding my design practice.",
         currentUni: true,
     },
     {
         title: "Bachelor of Science in Computer Science",
-        startDate: "2014-09-01",
-        endDate: "2018-06-30",
-        school: "University Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-        currentUni: false,
-    },
-    {
-        title: "Bachelor of Science in Computer Science",
         startDate: "2012-09-01",
-        endDate: "2013-06-30",
-        school: "University Name",
-        location: "United States",
-        description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
+        endDate: "2016-06-30",
+        school: "China Women's University",
+        location: "China, Beijing",
+        description: "Studied various aspects of design, including visual communication, user experience, and design thinking.",
         currentUni: false,
-    },
+    }
 ];
 
 export default education;
