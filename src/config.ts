@@ -34,10 +34,7 @@ export const ME = {
 contactInfo: {
     email: "libregd@outlook.com",
     linkedin: "https://www.behance.net/libregd",
-    resumes: [
-        { label: "Resume (EN)", file: "resume-en.pdf" },
-        { label: "简历 (中文)", file: "resume-cn.pdf" }
-    ],
+    resumeDoc: "resume.pdf",
 },
     aboutMe: "I am a designer for UI/UX, graphic design, and web development. I have over 10 years of experience in the field and have worked on a variety of projects for clients in different industries. I am passionate about creating beautiful and functional designs that help businesses achieve their goals.",
 }
