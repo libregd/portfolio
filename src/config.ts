@@ -33,10 +33,10 @@ export const ME = {
     ],
     contactInfo: {
         email: "libregd@outlook.com",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+        linkedin: "https://www.behance.net/libregd",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "I am a designer for UI/UX, graphic design, and web development. I have over 10 years of experience in the field and have worked on a variety of projects for clients in different industries. I am passionate about creating beautiful and functional designs that help businesses achieve their goals.",
 }
 
 export const SOCIALS = [
