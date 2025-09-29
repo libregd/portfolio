@@ -22,8 +22,8 @@ export default {
 			colors: {
 				// Light mode colors
 				'light-theme': '#E9EBEC',
-				'primary-light': '#FBD144',
-				'primary-hover-light': '#FFE071',
+				'primary-light': '#E0BE98',
+				'primary-hover-light': '#f2cfa7ff',
 
 				// Dark mode colors
 				'dark-theme': '#0C151D',
