@@ -10,21 +10,12 @@ interface Education {
 
 const  education: Education[] = [
     {
-        title: "Aalto University's online learning",
-        startDate: "2024-09-01",
-        endDate: "",
-        school: "Aalto University",
-        location: "Global",
-        description:"I'm currently exploring Aalto University's open learning resources, especially in art and design. Their free online courses, podcasts, and lectures offer fresh perspectives on creativity, sustainability, and visual thinking—perfect for expanding my design practice.",
-        currentUni: true,
-    },
-    {
-        title: "Bachelor of Science in Computer Science",
+        title: "Bachelor",
         startDate: "2012-09-01",
         endDate: "2016-06-30",
-        school: "China Women's University",
+        school: "Computer Science & Technology",
         location: "China, Beijing",
-        description: "Studied various aspects of design, including visual communication, user experience, and design thinking.",
+        description: "Although I hold a bachelor’s degree in computer science, I discovered in my sophomore year that I was more talented in art and design. Around that time, I began earning pocket money by freelancing on projects such as PPT design, logo creation, and article layout. This experience sparked my interest in design, leading me to pursue a career in this field after graduation.",
         currentUni: false,
     }
 ];
