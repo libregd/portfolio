@@ -1,0 +1,32 @@
+---
+title: MDB Landing Page
+summary: From concept to visual execution, the project was completed independently. Blender was used to create looping 3D animations tailored to the scene, with a dark overall tone that made the accent color stand out prominently. A particularly interesting part of the process was learning to compress PNG image sequences into WebP format using ffmpeg. With the help of AI-assisted parameter tuning, the final videos achieved high visual quality while maintaining a remarkably small file size—greatly improving page load performance.
+tags:
+  - Adobe XD
+  - Blender
+  - Loop Motion
+startDate: 2024-12-21
+endDate: 2024-12-21
+author: libregd
+url: https://www.mogdb.io/en/mdb
+cover: "./images/mdb/banner.webp"
+ogImage: "./images/mdb/banner.webp"
+---
+
+<div
+  style={{
+    display: "flex",
+    justifyContent: "center",
+    gap: "12px",
+    backgroundColor: "#18191B",
+    borderRadius: "1rem",
+  }}
+>
+  {[1, 2, 3, 4, 5].map((i) => (
+    <video key={i} autoPlay loop muted playsInline style={{ width: "180px" }}>
+      <source src={`/videos/p${i}.webm`} type="video/webm" />
+    </video>
+  ))}
+</div>
+
+![](./images/mdb/1.webp)
