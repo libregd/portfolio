@@ -75,5 +75,11 @@ export const SOCIALS = [
         url: "https://github.com/libregd",
         icon: "github-fill",
         show: true
+    },
+    {
+        name: "Kofi",
+        url: "https://ko-fi.com/libregd",
+        icon: "kofi-fill",
+        show: true
     }
 ]
