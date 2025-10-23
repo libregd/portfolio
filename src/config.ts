@@ -78,7 +78,7 @@ export const SOCIALS = [
     },
     {
         name: "Kofi",
-        url: "https://ko-fi.com/libregd",
+        url: "https://ko-fi.com/libregd/gallery",
         icon: "kofi-fill",
         show: true
     }
